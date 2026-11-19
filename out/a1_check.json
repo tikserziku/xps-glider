@@ -1,0 +1,115 @@
+{
+ "scale": 3.58,
+ "scale_rejected_by_layout": [],
+ "glyphs": {
+  "font": "arial.ttf",
+  "quotes_ok": false,
+  "approx_ok": false
+ },
+ "where": {
+  "title": [
+   9.0,
+   424.0,
+   229.9,
+   59.5
+  ],
+  "qr": {
+   "quiet_zone_box": [
+    242.0,
+    419.0,
+    305.793,
+    482.793
+   ],
+   "module_mm": 1.7241,
+   "field_mm": 50.0
+  },
+  "ruler": [
+   "free",
+   731.0,
+   162.0
+  ],
+  "lbl_H": [
+   373,
+   217
+  ],
+  "lbl_V": [
+   82,
+   529
+  ],
+  "sc_tick": [
+   392.8,
+   578.7
+  ],
+  "sc_circle": [
+   424.5,
+   228.5
+  ],
+  "ballast": [
+   10.3,
+   543.1
+  ],
+  "flap": [
+   668.5,
+   38.3
+  ],
+  "bend": [
+   588.5,
+   106.0
+  ],
+  "slot_H": [
+   374.5,
+   379.5
+  ],
+  "slot_V": [
+   277.4,
+   526.1
+  ]
+ },
+ "cut_closed_polylines": 2,
+ "H_span_sheet_mm": 823.4,
+ "span_expected": 823.4,
+ "slot_w_H": 5.0,
+ "slot_w_V": 5.0,
+ "min_margin_mm": 8.2,
+ "gap_mm": 35.831,
+ "H_bbox": [
+  8.8,
+  8.2,
+  832.2,
+  449.73
+ ],
+ "V_bbox": [
+  8.2,
+  356.68,
+  647.34,
+  585.8
+ ],
+ "text_overlaps": [],
+ "quiet_zone_intrusions": [],
+ "item1_dxf_ok": true,
+ "pdf_pages": 1,
+ "pdf_page_mm": [
+  841.0,
+  594.0
+ ],
+ "ruler_dxf_count": 1,
+ "ruler_pdf_mm": 100.0,
+ "item2_pdf_ok": true,
+ "qr_decoded": "https://xps-glider.pages.dev/",
+ "qr_render_dpi": 300,
+ "item3_qr_ok": true,
+ "pngs": [
+  "F07_A1.png (60 dpi)",
+  "a1_crop_title.png (150 dpi)",
+  "a1_crop_slot.png (150 dpi)"
+ ],
+ "title_lines": [
+  "SKLANDYTUVAS F07 \"DELTA\"",
+  "XPS paklotas 5 mm · M 1:1 · spausdinti 100 %",
+  "Sparnų mostas 823 mm · masė 52 g · balastas 6,6 g",
+  "Svorio centras (SC) – 391 mm nuo nosies",
+  "Sklendimo greitis 4,5 m/s · kokybė K = 5,5 · nuotolis ~ 9,0 m (h = 1,6 m)",
+  "https://xps-glider.pages.dev/"
+ ],
+ "ok": true
+}

@@ -1,0 +1,228 @@
+{
+ "pdf_pages": 10,
+ "merged_pdf": "forms_A4.pdf",
+ "font": "arial.ttf",
+ "forms": {
+  "F01": {
+   "id": "F01",
+   "placement": "1: V below H, fin up",
+   "cut_closed": 2,
+   "H_x_extent": 270.0,
+   "span_mm": 270.0,
+   "slot_w_H": 5.0,
+   "slot_w_V": 5.0,
+   "min_margin_mm": 8.2,
+   "margin_ok": true,
+   "min_gap_mm": 15.6,
+   "text_overlaps": 0,
+   "text_overlap_items": [],
+   "ruler_dxf_mm": 50.0,
+   "page_mm": [
+    297.0,
+    210.0
+   ],
+   "ruler_pdf_mm": 50.0,
+   "png": true,
+   "ok": true
+  },
+  "F02": {
+   "id": "F02",
+   "placement": "1: V below H, fin up",
+   "cut_closed": 2,
+   "H_x_extent": 270.0,
+   "span_mm": 270.0,
+   "slot_w_H": 5.0,
+   "slot_w_V": 5.0,
+   "min_margin_mm": 8.2,
+   "margin_ok": true,
+   "min_gap_mm": 15.72,
+   "text_overlaps": 0,
+   "text_overlap_items": [],
+   "ruler_dxf_mm": 50.0,
+   "page_mm": [
+    297.0,
+    210.0
+   ],
+   "ruler_pdf_mm": 50.0,
+   "png": true,
+   "ok": true
+  },
+  "F03": {
+   "id": "F03",
+   "placement": "1: V below H, fin up",
+   "cut_closed": 2,
+   "H_x_extent": 270.0,
+   "span_mm": 270.0,
+   "slot_w_H": 5.0,
+   "slot_w_V": 5.0,
+   "min_margin_mm": 8.2,
+   "margin_ok": true,
+   "min_gap_mm": 15.611,
+   "text_overlaps": 0,
+   "text_overlap_items": [],
+   "ruler_dxf_mm": 50.0,
+   "page_mm": [
+    297.0,
+    210.0
+   ],
+   "ruler_pdf_mm": 50.0,
+   "png": true,
+   "ok": true
+  },
+  "F04": {
+   "id": "F04",
+   "placement": "1: V below H, fin up",
+   "cut_closed": 2,
+   "H_x_extent": 270.0,
+   "span_mm": 270.0,
+   "slot_w_H": 5.0,
+   "slot_w_V": 5.0,
+   "min_margin_mm": 8.2,
+   "margin_ok": true,
+   "min_gap_mm": 16.767,
+   "text_overlaps": 0,
+   "text_overlap_items": [],
+   "ruler_dxf_mm": 50.0,
+   "page_mm": [
+    297.0,
+    210.0
+   ],
+   "ruler_pdf_mm": 50.0,
+   "png": true,
+   "ok": true
+  },
+  "F05": {
+   "id": "F05",
+   "placement": "1: V below H, fin up",
+   "cut_closed": 2,
+   "H_x_extent": 280.0,
+   "span_mm": 280.0,
+   "slot_w_H": 5.0,
+   "slot_w_V": 5.0,
+   "min_margin_mm": 8.2,
+   "margin_ok": true,
+   "min_gap_mm": 15.663,
+   "text_overlaps": 0,
+   "text_overlap_items": [],
+   "ruler_dxf_mm": 50.0,
+   "page_mm": [
+    297.0,
+    210.0
+   ],
+   "ruler_pdf_mm": 50.0,
+   "png": true,
+   "ok": true
+  },
+  "F06": {
+   "id": "F06",
+   "placement": "1: V below H, fin up",
+   "cut_closed": 2,
+   "H_x_extent": 190.0,
+   "span_mm": 190.0,
+   "slot_w_H": 5.0,
+   "slot_w_V": 5.0,
+   "min_margin_mm": 8.2,
+   "margin_ok": true,
+   "min_gap_mm": 15.6,
+   "text_overlaps": 0,
+   "text_overlap_items": [],
+   "ruler_dxf_mm": 50.0,
+   "page_mm": [
+    297.0,
+    210.0
+   ],
+   "ruler_pdf_mm": 50.0,
+   "png": true,
+   "ok": true
+  },
+  "F07": {
+   "id": "F07",
+   "placement": "1: V below H, fin up",
+   "cut_closed": 2,
+   "H_x_extent": 230.0,
+   "span_mm": 230.0,
+   "slot_w_H": 5.0,
+   "slot_w_V": 5.0,
+   "min_margin_mm": 8.2,
+   "margin_ok": true,
+   "min_gap_mm": 8.018,
+   "text_overlaps": 0,
+   "text_overlap_items": [],
+   "ruler_dxf_mm": 50.0,
+   "page_mm": [
+    297.0,
+    210.0
+   ],
+   "ruler_pdf_mm": 50.0,
+   "png": true,
+   "ok": true
+  },
+  "F08": {
+   "id": "F08",
+   "placement": "2: V above H, mirrored, fin down",
+   "cut_closed": 2,
+   "H_x_extent": 270.0,
+   "span_mm": 270.0,
+   "slot_w_H": 5.0,
+   "slot_w_V": 5.0,
+   "min_margin_mm": 8.2,
+   "margin_ok": true,
+   "min_gap_mm": 8.129,
+   "text_overlaps": 0,
+   "text_overlap_items": [],
+   "ruler_dxf_mm": 50.0,
+   "page_mm": [
+    297.0,
+    210.0
+   ],
+   "ruler_pdf_mm": 50.0,
+   "png": true,
+   "ok": true
+  },
+  "F09": {
+   "id": "F09",
+   "placement": "1: V below H, fin up",
+   "cut_closed": 2,
+   "H_x_extent": 250.0,
+   "span_mm": 250.0,
+   "slot_w_H": 5.0,
+   "slot_w_V": 5.0,
+   "min_margin_mm": 8.2,
+   "margin_ok": true,
+   "min_gap_mm": 6.977,
+   "text_overlaps": 0,
+   "text_overlap_items": [],
+   "ruler_dxf_mm": 50.0,
+   "page_mm": [
+    297.0,
+    210.0
+   ],
+   "ruler_pdf_mm": 50.0,
+   "png": true,
+   "ok": true
+  },
+  "F10": {
+   "id": "F10",
+   "placement": "1: V below H, fin up",
+   "cut_closed": 2,
+   "H_x_extent": 270.0,
+   "span_mm": 270.0,
+   "slot_w_H": 5.0,
+   "slot_w_V": 5.0,
+   "min_margin_mm": 8.2,
+   "margin_ok": true,
+   "min_gap_mm": 60.61,
+   "text_overlaps": 0,
+   "text_overlap_items": [],
+   "ruler_dxf_mm": 50.0,
+   "page_mm": [
+    297.0,
+    210.0
+   ],
+   "ruler_pdf_mm": 50.0,
+   "png": true,
+   "ok": true
+  }
+ },
+ "ok": true
+}

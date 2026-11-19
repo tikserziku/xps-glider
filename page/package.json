@@ -1,0 +1,11 @@
+{
+  "name": "xps-glider-page",
+  "private": true,
+  "type": "module",
+  "description": "Builder of the one-file page (three.js bundle via esbuild) and the QR code of the printed sheets",
+  "dependencies": {
+    "esbuild": "^0.28.0",
+    "qrcode": "^1.5.4",
+    "three": "^0.187.0"
+  }
+}

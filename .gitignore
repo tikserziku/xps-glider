@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+node_modules/
+author.local.json
+out/shots/
+out/shots_live/
+out/shots_dl/
+out/print/
+out/sheets/png/
+out/sheets/pdf/
+out/*_crop_*.png

@@ -1,0 +1,31 @@
+{
+ "geometry_simple_polygons": {
+  "ok": true,
+  "detail": "10 forms, H/V/H_cut/V_cut"
+ },
+ "aero_selftest": {
+  "ok": true,
+  "detail": "see lines above"
+ },
+ "forms_balance": {
+  "ok": true,
+  "detail": "static margin 5..15 %, CL < 0.7; failing: none"
+ },
+ "sim_vs_polar_all_forms": {
+  "ok": true,
+  "detail": "range sim/steady 1.006..1.031"
+ },
+ "3d_check": {
+  "ok": true,
+  "detail": "volumes = area x t, GLB extents"
+ },
+ "sheets_check": {
+  "ok": true,
+  "detail": "2 closed cut outlines, slot 5.0, margins, page 297x210, ruler 50.0 mm"
+ },
+ "page_js_vs_python": {
+  "ok": true,
+  "detail": "worst relative differences {\"m\": 0.0, \"V\": 0.0, \"LD\": 0.0, \"range\": 0.001, \"time\": 0.001, \"m28\": 0.0008, \"V28\": 0.0004, \"LD28\": 0.0002, \"range28\": 0.0009, \"bend28\": 0.0008}"
+ },
+ "ok": true
+}
